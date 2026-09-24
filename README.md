@@ -1,0 +1,2 @@
+#Canvas-Calendar-Scraper
+I like to put all my assignments in my calendar so I am more proactive in doing them. It is so tedious inputting each assignment manually in my own database, so I made this simple playwright scraper to save me the pain and suffering
